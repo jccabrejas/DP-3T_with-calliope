@@ -1,0 +1,140 @@
+0:00:00.095,0:00:02.995
+Alice y Bob tienen cada uno un Calliope
+
+0:00:03.000,0:00:06.600
+Cuando enciendes los Calliopes empiezan a emitir señales.
+
+0:00:07.815,0:00:09.955
+Y si estás lejos,
+
+0:00:10.760,0:00:12.940
+Ahora Bob está lejos
+
+0:00:14.380,0:00:16.700
+Alice emite señales pero no hay nadie cerca
+
+0:00:17.300,0:00:20.840
+así que tampoco recibe nada porque está ella sola.
+
+0:00:21.040,0:00:24.200
+¿Hay alguien cerca?
+
+0:00:24.200,0:00:27.520
+No, así que no hay señales recibidas
+
+0:00:27.840,0:00:29.280
+Pero si por alguna razón
+
+0:00:31.720,0:00:35.580
+Alice y Bob están juntos
+
+0:00:37.600,0:00:38.600
+perdón, Bob!
+
+0:00:39.940,0:00:42.215
+entonces
+
+0:00:42.215,0:00:44.715
+deberían poder ver los mensajes el uno del otro
+
+0:00:50.175,0:00:52.565
+la flecha hacia abajo indica que Bob ha recibido la señal de Alice
+
+0:00:52.725,0:00:55.765
+porque ahora está cerca de ella.
+
+0:00:55.765,0:00:59.075
+Los mensajes cambian en cada periodo
+
+0:01:01.025,0:01:04.495
+y puedes ver que Alice ha recibido un mensaje de Bob
+
+0:01:05.000,0:01:07.880
+Ahora imaginemos que Bob se va otra vez lejos de Alice...
+
+0:01:09.580,0:01:13.860
+mientras que Alice sigue mandando mensajes durante el día
+
+0:01:14.240,0:01:15.300
+pero como Bob está lejos
+
+0:01:16.000,0:01:18.780
+no puede recibir las señales
+
+0:01:20.960,0:01:23.200
+que cambian en cada periodo.
+
+0:01:23.900,0:01:31.240
+Al final del día cada uno está en su casa
+
+0:01:36.900,0:01:39.960
+Alice se ha infectado
+
+0:01:41.200,0:01:45.580
+así que decide decírselo al hospital
+
+0:01:46.060,0:01:48.440
+Y lo que hace es decir:
+
+0:01:48.440,0:01:55.140
+Hospital, estos son los mensajes que he estado mandando durante todo el día.
+
+0:01:55.140,0:01:57.140
+y se los envía al hospital
+
+0:01:58.260,0:02:03.480
+Hoz he mandado los números 13, 12 y 11 
+
+0:02:03.840,0:02:07.420
+En realidad estos números sería aleatorios para no poder saber de quien son
+
+0:02:07.740,0:02:09.500
+Y el hospital puede decir:
+
+0:02:09.700,0:02:16.260
+Hemos recibido que alguien con los códigos 13, 12 y 11 está infectado por COVID
+
+0:02:19.040,0:02:23.740
+No hay ninguna información sobre la posición de Alice, solo se transmiten los códigos
+
+0:02:24.160,0:02:27.340
+Y Bob desde su casa puede decir:
+
+0:02:27.840,0:02:32.315
+Quizás debería comprobar si he estado en contacto hoy con alguien infectado por el virus
+
+0:02:35.860,0:02:40.200
+Así que se lo puede preguntar al hospital
+
+0:02:41.500,0:02:44.295
+y el hospital le responde mandando los códigos de gente contagiada, es decir,
+
+0:02:44.300,0:02:48.300
+estos son los códigos que tenemos de gente con el virus
+
+0:02:49.040,0:02:50.420
+Ahora Bob puede decir:
+
+0:02:51.060,0:02:53.980
+Estos son los códigos que he recibido (mientras estaba junto a otra gente durante el día)
+
+0:02:54.420,0:02:57.355
+13, ok, ese no es un problema (él no sabe de quien es)
+
+0:03:00.405,0:03:04.780
+Comprueba la lista de los códigos (él no estaba en contacto con la persona cuando se  emitió el número 13, ya que estaba lejos de Alice en ese momento)
+
+0:03:05.180,0:03:08.840
+... pero había un código que estaba rojo
+
+0:03:09.140,0:03:10.700
+lo cual quiere decir, que Bob se tiene que quedar en casa
+
+0:03:11.880,0:03:15.080
+Y eso es todo, usando unos Calliopes y Bluetooth
+
+0:03:15.665,0:03:16.995
+y algo de tiempo libre
+
+0:03:17.880,0:03:26.220
+Recuerda, quédate en casa!
